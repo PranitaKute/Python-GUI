@@ -55,11 +55,19 @@ You can also check the `requirements.txt` file for the list of dependencies.
 - Enter numbers and select the arithmetic operation you want to perform.
 - The result will be displayed on the screen.
 
+## Screenshots
+
+### Main Interface
+![Calculator Main Screen](Screenshots/MainInterface.png)
+
+### Scientific Calculator Interface
+![Calculator Main Screen](Screenshots/ScientificCalculatorInterface.png)
+
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ## Author
-**Pranita**
+**Pranita Kute**
 
 ---
 
